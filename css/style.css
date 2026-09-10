@@ -1,0 +1,49 @@
+header {
+
+    background-color: black;
+    color: wheat;
+    font-size: 20px;
+    text-align: center;
+}
+
+body {
+
+    margin: 0px;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    
+}
+
+
+table {
+
+    text-align: center;
+    background-color: white;
+    color: gainsboro;
+}
+
+footer {
+    
+    text-align: center;
+    border-color: black;
+    border-style: dotted;
+    padding: 50px
+    
+}
+
+.one {
+
+    background-color: brown;
+
+}
+
+.table td, th, tr {
+
+    width: 500px;
+    border: 1px solid black;
+    margin-left: 100px;
+    color: brown;
+    border-radius: 15px;
+
+}
